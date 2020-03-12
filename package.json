@@ -1,0 +1,14 @@
+{
+  "name": "build-plugin-rax-quickapp-api",
+  "version": "1.0.0",
+  "description": "rax编译快应用插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npm.alibaba-inc.com"
+  }
+}
